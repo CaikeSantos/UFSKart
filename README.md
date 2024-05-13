@@ -1,4 +1,4 @@
-<img width=100% src="https://github.com/CaikeSantos/UFSKart/assets/84350582/cf1d0177-94f9-4211-af48-71a44024950c">
+<img width=50% src="https://github.com/CaikeSantos/UFSKart/assets/84350582/cf1d0177-94f9-4211-af48-71a44024950c">
 <h1>UFSKart</h1>
 <p>The UFSKart is a project of the subject "Organization and Retrieval of Information". The goal is apply the acknowledgment about B Tree, index, inverted list, binary search and more.</p>
 
